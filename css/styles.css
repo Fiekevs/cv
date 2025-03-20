@@ -50,4 +50,9 @@ body {
 	flex-basis: 1.4em;
 }
 
+.fiekefont {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
